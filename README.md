@@ -5,7 +5,7 @@
 # Hi, this is admccc :wave:
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
+![Profile View Counter](https://komarev.com/ghpvc/?username=admccc&style=flat-square)
 
 
 ## Skills :dart:
@@ -48,4 +48,4 @@ none
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=admccc&style=flat-square)
+
