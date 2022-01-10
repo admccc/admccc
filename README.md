@@ -21,21 +21,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
 
-## Introduction :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
-
-Major in Software Engineering. :man_technologist:
-
-I love open source spirit. :heart:
-
-Hope to make more friends in open source projects. :eyes:
-
-## Orientation :dart:
-
-I love coding. :heart:
-
-I love Front End technologys. :heart:
+## Skills :dart:
 
 <p>
 
