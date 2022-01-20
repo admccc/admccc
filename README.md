@@ -1,7 +1,7 @@
 <div align=center>
-
+<!-- 
 <img alt="headicon" src="./assets/avatar.png" width=100 />
-
+ -->
 # Hi, this is admccc :wave:
 
 
